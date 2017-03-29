@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors\RockPaperScissors.csproj", "{99B66578-3A50-4632-A7DE-F227326FA24A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RockPaperScissorsContent", "RockPaperScissors\RockPaperScissorsContent\RockPaperScissorsContent.contentproj", "{50882FAC-86C2-4DDC-B245-F01536C54BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B66578-3A50-4632-A7DE-F227326FA24A}.Debug|x86.ActiveCfg = Debug|x86
+		{99B66578-3A50-4632-A7DE-F227326FA24A}.Debug|x86.Build.0 = Debug|x86
+		{99B66578-3A50-4632-A7DE-F227326FA24A}.Release|x86.ActiveCfg = Release|x86
+		{99B66578-3A50-4632-A7DE-F227326FA24A}.Release|x86.Build.0 = Release|x86
+		{50882FAC-86C2-4DDC-B245-F01536C54BF9}.Debug|x86.ActiveCfg = Debug|x86
+		{50882FAC-86C2-4DDC-B245-F01536C54BF9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
