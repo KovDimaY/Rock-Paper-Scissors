@@ -1,6 +1,9 @@
 # Rock-Paper-Scissors
 This is a simple game created with C# VS Express 2010 (XNA Framework 4.0)
 
+### Description
+This game is an expansion on the Rock, Paper, Scissors with two additional elements, that was first used to settle a dispute about what to watch on TV between Sheldon and Raj in \"The Lizard-Spock Expansion\" episode of the Big Bang Theory. So you can practice it to impress your friends. And also you can be sure that computer will not cheat ever! :)
+
 ### Screenshots
 ##### Main Menu
 ![screenshot_1](https://cloud.githubusercontent.com/assets/26466644/24862943/22787738-1dff-11e7-8da7-b98fcc1c6d4f.png)
